@@ -1,4 +1,4 @@
 print("we made some changes")
-jeremias = salo
-if salo = jeremias:
+"Jeremias" = "Salo"
+if "Salo" = "Jeremias":
     print("oikein")
